@@ -1,2 +1,10 @@
 git log
 git status
+git config --global user.name "user_name"
+git config --global user.email "valid_email"
+git branch
+git checkout -b "name_branch"
+git switch
+git clone
+git pull
+git push
