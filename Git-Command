@@ -7,5 +7,3 @@ git checkout -b "name_branch"
 git switch
 git clone
 git pull
-git push
-git diff
