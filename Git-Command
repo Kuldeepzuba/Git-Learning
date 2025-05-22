@@ -8,3 +8,4 @@ git switch
 git clone
 git pull
 git push
+git diff
