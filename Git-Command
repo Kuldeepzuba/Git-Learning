@@ -7,3 +7,6 @@ git checkout -b "name_branch"
 git switch
 git clone
 git pull
+git merge
+git push
+git revert
