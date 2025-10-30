@@ -10,3 +10,6 @@ git pull
 git merge
 git push
 git revert
+git remove -v
+git branch
+git tag
