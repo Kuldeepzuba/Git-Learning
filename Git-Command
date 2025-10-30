@@ -13,3 +13,4 @@ git revert
 git remove -v
 git branch
 git tag
+git diff
